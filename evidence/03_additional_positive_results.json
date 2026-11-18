@@ -1,0 +1,33 @@
+[
+  {
+    "checks": {
+      "altezza_avanzata": true,
+      "consenso_e_quorum": true,
+      "finality_avanzata": true,
+      "finality_identica": true,
+      "tip_identico": true,
+      "tutti_sincronizzati": true,
+      "tutti_validator": true
+    },
+    "result": "PASS",
+    "type": "full_restart"
+  },
+  {
+    "checks": {
+      "A_snapshot_advanced_after_restart": true,
+      "all_api_responsive": true,
+      "all_finality_advanced": true,
+      "all_heights_advanced": true,
+      "all_validators_operational": true,
+      "chain_id_correct": true,
+      "no_persistence_errors_in_recent_tmux": true,
+      "previous_A_DB_verify_pass": true,
+      "previous_evidence_integrity": true,
+      "same_finality": true,
+      "same_tip": true,
+      "source_binary_identity_match": true
+    },
+    "result": "PASS",
+    "type": "live_validation"
+  }
+]

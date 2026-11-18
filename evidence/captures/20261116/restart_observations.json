@@ -1,0 +1,129 @@
+{
+  "schema": "newgen-public-evidence-observation-v1",
+  "evidence_kind": "selected_complete_fields_from_truncated_terminal_capture",
+  "source_file": "Testo incollato(20261116-010525).txt",
+  "source_sha256": "1930eff1d771be6e2d0d46726d6e7228164921f989ba2a17e0dee3a095481741",
+  "date_as_recorded": "2026-11-16",
+  "session_created_time_as_recorded": "Mon Nov 16 02:04:21 2026",
+  "session_time_timezone": "not specified by the source",
+  "exact_api_capture_timestamp_utc": null,
+  "initial_observation": {
+    "node": "A",
+    "source_line": 33,
+    "source_line_sha256_utf8_without_newline": "a1d1166b63f84213e6652dec74e31bd3888b8ed6132fe87243eccea82e451468",
+    "source_api_line_truncated": true,
+    "fields": {
+      "build_fingerprint": "sw=1.0.0 proto=3 min_proto=3 git=unknown",
+      "finalized_hash": "d4e85a0509c5e0d4e0d0ed2a580cb32bfdf2a1b2e9f817ceccfa4b7b322117fe",
+      "finalized_height": 328555,
+      "hash": "e939c913379d0e48a79d233a3a10908f19f682c05980908939b3537e3fe9b42d",
+      "height": 328556,
+      "network_id": "newgen-l1-private-testnet-v1",
+      "protocol_version": 3,
+      "local_runtime": {
+        "consensus_ready": false,
+        "is_authorized_miner": true,
+        "operational_runtime_quorum_ready": false,
+        "operational_runtime_validator_count": 1,
+        "p2p_ready_for_mining": false,
+        "proposal_gate_open": false,
+        "runtime_bootstrap_complete": true,
+        "runtime_sync_caught_up": true
+      }
+    }
+  },
+  "later_observations": [
+    {
+      "node": "A",
+      "source_line": 73,
+      "source_line_sha256_utf8_without_newline": "4da475941a64835995e6f10cf5010fcb3df758d4b23e8a404d62c8af43ddae4c",
+      "source_api_line_truncated": true,
+      "fields": {
+        "build_fingerprint": "sw=1.0.0 proto=3 min_proto=3 git=unknown",
+        "finalized_hash": "13d2d89362e9f97e77f298b3cec27653166fe5de4a34f7530ebcf05e578497d5",
+        "finalized_height": 328558,
+        "hash": "eb1eea6a03896a41f0f7e99232c3684866de847ec900e817bbd1040952298da8",
+        "height": 328559,
+        "network_id": "newgen-l1-private-testnet-v1",
+        "protocol_version": 3,
+        "local_runtime": {
+          "consensus_ready": true,
+          "is_authorized_miner": true,
+          "operational_runtime_quorum_ready": true,
+          "operational_runtime_validator_count": 3,
+          "p2p_ready_for_mining": true,
+          "proposal_gate_open": true,
+          "runtime_bootstrap_complete": true,
+          "runtime_sync_caught_up": true
+        }
+      }
+    },
+    {
+      "node": "B",
+      "source_line": 75,
+      "source_line_sha256_utf8_without_newline": "599908e4eac42e47be3d05c9e0247945670bf47d72d5e1c9d5713c4e9f6a85e3",
+      "source_api_line_truncated": true,
+      "fields": {
+        "build_fingerprint": "sw=1.0.0 proto=3 min_proto=3 git=unknown",
+        "finalized_hash": "13d2d89362e9f97e77f298b3cec27653166fe5de4a34f7530ebcf05e578497d5",
+        "finalized_height": 328558,
+        "hash": "eb1eea6a03896a41f0f7e99232c3684866de847ec900e817bbd1040952298da8",
+        "height": 328559,
+        "network_id": "newgen-l1-private-testnet-v1",
+        "protocol_version": 3,
+        "local_runtime": {
+          "consensus_ready": true,
+          "is_authorized_miner": true,
+          "operational_runtime_quorum_ready": true,
+          "operational_runtime_validator_count": 3,
+          "p2p_ready_for_mining": true,
+          "proposal_gate_open": true,
+          "runtime_bootstrap_complete": true,
+          "runtime_sync_caught_up": true
+        }
+      }
+    },
+    {
+      "node": "C",
+      "source_line": 77,
+      "source_line_sha256_utf8_without_newline": "349f7270aecef12275f9c3445e51006ae294270c2026d2f56a22706c2cfba8d1",
+      "source_api_line_truncated": true,
+      "fields": {
+        "build_fingerprint": "sw=1.0.0 proto=3 min_proto=3 git=unknown",
+        "finalized_hash": "13d2d89362e9f97e77f298b3cec27653166fe5de4a34f7530ebcf05e578497d5",
+        "finalized_height": 328558,
+        "hash": "eb1eea6a03896a41f0f7e99232c3684866de847ec900e817bbd1040952298da8",
+        "height": 328559,
+        "network_id": "newgen-l1-private-testnet-v1",
+        "protocol_version": 3,
+        "local_runtime": {
+          "consensus_ready": true,
+          "is_authorized_miner": true,
+          "operational_runtime_quorum_ready": true,
+          "operational_runtime_validator_count": 3,
+          "p2p_ready_for_mining": true,
+          "proposal_gate_open": true,
+          "runtime_bootstrap_complete": true,
+          "runtime_sync_caught_up": true
+        }
+      }
+    }
+  ],
+  "derived_checks": {
+    "same_later_height": true,
+    "same_later_tip_hash": true,
+    "same_later_finalized_height": true,
+    "same_later_finalized_hash": true,
+    "all_later_consensus_ready": true,
+    "all_later_quorum_ready": true,
+    "all_later_runtime_sync_caught_up": true,
+    "node_A_height_advance_between_observations": 3,
+    "node_A_finality_advance_between_observations": 3
+  },
+  "limitations": [
+    "The complete original API responses are not present in this transcript.",
+    "Only complete fields actually visible in the source were extracted.",
+    "The initial A observation has consensus and quorum not ready; the later observations show all three ready.",
+    "This is an historical operator capture, not a new test or an independent consensus-proof validation."
+  ]
+}

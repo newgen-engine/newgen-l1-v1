@@ -1,0 +1,77 @@
+Selected exact field fragments from the historical terminal transcript.
+These fragments are not complete API JSON responses.
+The original four API lines are truncated at 1800 characters.
+No missing response content has been reconstructed.
+
+Session start message, original line 6:
+[OK] tmux session started: newgen-chain
+Session creation record, original line 16 (timezone not specified):
+newgen-chain: 4 windows (created Mon Nov 16 02:04:21 2026)
+
+Node A, initial observation, original line 33:
+"build_fingerprint":"sw=1.0.0 proto=3 min_proto=3 git=unknown"
+"finalized_hash":"d4e85a0509c5e0d4e0d0ed2a580cb32bfdf2a1b2e9f817ceccfa4b7b322117fe"
+"finalized_height":328555
+"hash":"e939c913379d0e48a79d233a3a10908f19f682c05980908939b3537e3fe9b42d"
+"height":328556
+"network_id":"newgen-l1-private-testnet-v1"
+"protocol_version":3
+"consensus_ready":false
+"is_authorized_miner":true
+"operational_runtime_quorum_ready":false
+"operational_runtime_validator_count":1
+"p2p_ready_for_mining":false
+"proposal_gate_open":false
+"runtime_bootstrap_complete":true
+"runtime_sync_caught_up":true
+
+Node A, later observation, original line 73:
+"build_fingerprint":"sw=1.0.0 proto=3 min_proto=3 git=unknown"
+"finalized_hash":"13d2d89362e9f97e77f298b3cec27653166fe5de4a34f7530ebcf05e578497d5"
+"finalized_height":328558
+"hash":"eb1eea6a03896a41f0f7e99232c3684866de847ec900e817bbd1040952298da8"
+"height":328559
+"network_id":"newgen-l1-private-testnet-v1"
+"protocol_version":3
+"consensus_ready":true
+"is_authorized_miner":true
+"operational_runtime_quorum_ready":true
+"operational_runtime_validator_count":3
+"p2p_ready_for_mining":true
+"proposal_gate_open":true
+"runtime_bootstrap_complete":true
+"runtime_sync_caught_up":true
+
+Node B, later observation, original line 75:
+"build_fingerprint":"sw=1.0.0 proto=3 min_proto=3 git=unknown"
+"finalized_hash":"13d2d89362e9f97e77f298b3cec27653166fe5de4a34f7530ebcf05e578497d5"
+"finalized_height":328558
+"hash":"eb1eea6a03896a41f0f7e99232c3684866de847ec900e817bbd1040952298da8"
+"height":328559
+"network_id":"newgen-l1-private-testnet-v1"
+"protocol_version":3
+"consensus_ready":true
+"is_authorized_miner":true
+"operational_runtime_quorum_ready":true
+"operational_runtime_validator_count":3
+"p2p_ready_for_mining":true
+"proposal_gate_open":true
+"runtime_bootstrap_complete":true
+"runtime_sync_caught_up":true
+
+Node C, later observation, original line 77:
+"build_fingerprint":"sw=1.0.0 proto=3 min_proto=3 git=unknown"
+"finalized_hash":"13d2d89362e9f97e77f298b3cec27653166fe5de4a34f7530ebcf05e578497d5"
+"finalized_height":328558
+"hash":"eb1eea6a03896a41f0f7e99232c3684866de847ec900e817bbd1040952298da8"
+"height":328559
+"network_id":"newgen-l1-private-testnet-v1"
+"protocol_version":3
+"consensus_ready":true
+"is_authorized_miner":true
+"operational_runtime_quorum_ready":true
+"operational_runtime_validator_count":3
+"p2p_ready_for_mining":true
+"proposal_gate_open":true
+"runtime_bootstrap_complete":true
+"runtime_sync_caught_up":true

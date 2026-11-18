@@ -1,0 +1,54 @@
+NEWGENENGINE L1 V1 — PROPRIETARY SOURCE INSPECTION TERMS
+Version 1.0 — 18 November 2026
+
+Copyright (c) 2026 Danilo Bringheli
+All rights reserved, except for the limited permissions and exceptions below.
+
+1. SCOPE
+These terms apply only to original NewGenEngine L1 V1 material for which the
+identified copyright holder owns or controls the relevant rights. They do not
+apply to independent third-party components, their license texts, or material
+otherwise identified as belonging to others. No rights in third-party material
+are claimed. Facts, ideas and other matter outside copyright protection are
+not made exclusive by this notice.
+
+2. LIMITED SOURCE INSPECTION
+The original source is made available for reading, technical source inspection
+and historical documentation. Visibility does not grant a general software-use
+license. Copies strictly necessary for authorized viewing or for functionality
+permitted by the hosting platform remain subject to section 4.
+
+3. RIGHTS NOT GRANTED
+Except as expressly permitted by section 4 or by separate written permission
+from the copyright holder, no authorization is granted to compile, execute,
+deploy or operate the original NewGenEngine software; modify it or prepare
+derivative works; incorporate it into another product or service; redistribute,
+sublicense, sell or commercially exploit it. These reservations apply to both
+commercial and non-commercial use. Requests for broader rights must be made
+to the copyright holder.
+
+4. PLATFORM RIGHTS AND MANDATORY LAW
+Nothing in these terms overrides rights granted under the applicable GitHub
+Terms of Service, including the relevant rights of GitHub, its affiliates and
+other users. Nothing restricts rights or exceptions that cannot lawfully be
+excluded under applicable law. This notice does not promise that public
+publication prevents copying or that it can withdraw previously granted rights.
+
+5. THIRD-PARTY MATERIAL
+Third-party components remain governed by their own licenses and notices.
+Any permissions those licenses grant remain intact. The restrictions in section
+3 must not be interpreted as restricting rights in those components. See
+THIRD_PARTY_NOTICES.md, DEPENDENCY_LICENSES.csv and third_party/.
+
+6. WARRANTIES AND LIABILITY
+To the maximum extent permitted by applicable law, the original NewGenEngine
+material is supplied AS IS, without warranties, and the copyright holder is
+not liable for loss arising from its use. No provision excludes liability or
+statutory protection that cannot lawfully be excluded. Historical test results
+are not a security certification, a service guarantee or permission to operate
+a production network.
+
+7. OTHER RIGHTS AND CONTACT
+No patent or trademark license is granted by this notice. Separate written
+licenses may be offered by the copyright holder. Licensing enquiries:
+newgenengine.official@gmail.com

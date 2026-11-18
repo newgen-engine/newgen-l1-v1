@@ -1,0 +1,11 @@
+{
+  "consensus_and_quorum_ready": true,
+  "finalized_height": 328526,
+  "height": 328527,
+  "node_count": 3,
+  "result": "PASS",
+  "same_finality": true,
+  "same_tip": true,
+  "scope": "private_testnet",
+  "validators_authorized": true
+}

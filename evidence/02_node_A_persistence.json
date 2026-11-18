@@ -1,0 +1,10 @@
+{
+  "database_height": 328556,
+  "integrity_ok": true,
+  "issues": 0,
+  "needs_recovery": false,
+  "node": "A",
+  "reopened_after_verification": true,
+  "result": "PASS",
+  "verification": "offline_full_database_verification"
+}

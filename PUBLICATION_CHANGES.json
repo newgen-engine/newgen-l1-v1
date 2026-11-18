@@ -1,0 +1,41 @@
+{
+  "changed_source_file_count": 2,
+  "changed_test_files": [
+    {
+      "file": "src/p2p.rs",
+      "kind": "test_fixture_ipv4_anonymization",
+      "occurrences": 7,
+      "original_file_sha256": "a94e794069c0bbf6674ab3ba05ad4097e7eec2214b247e6ae5010fd3f666f97f"
+    },
+    {
+      "file": "src/p2p.rs",
+      "kind": "test_fixture_ipv4_anonymization",
+      "occurrences": 1,
+      "original_file_sha256": "a94e794069c0bbf6674ab3ba05ad4097e7eec2214b247e6ae5010fd3f666f97f"
+    },
+    {
+      "file": "src/bin/newgen_wallet.rs",
+      "kind": "test_fixture_ipv4_anonymization",
+      "occurrences": 1,
+      "original_file_sha256": "6d6cb38a111b536bde1360f5fca9e1a819676a5a7ff42096d55c83c293a18371"
+    }
+  ],
+  "changes_are_test_fixture_ipv4_substitutions_only": true,
+  "notes": [
+    "The runtime configuration and private evidence are not part of this public archive.",
+    "Original release binary SHA256 does not imply a reproducible build from anonymized test fixtures."
+  ],
+  "original_src_sha256_reference": {
+    "Cargo.lock": "c78fced548970ce8cac6a35ab4cf9070bdc6da37da2446273d7478057085421c",
+    "Cargo.toml": "99bec75d7a4c8c4f6040d48b0887d0fd37fb3e3920c4926c8c719b1f463605b6",
+    "src/blockchain.rs": "92acd6e856bb40998e5feed246756b65260571191461560e684723dda0d6e44b",
+    "src/main.rs": "b68235d288f3ae7f6f2610cd391eaa3588fa3c703d2265f837be5a39dd0fc6a7",
+    "src/persistence.rs": "bf6b94055502c40cc6f53b23f521686a7b99f0e9bfcb52cca535813997f3ab03",
+    "src/storage.rs": "860f00fd8009cded01c5a02a97406e0843cb09d06102673bafe88341c7c3a518"
+  },
+  "reference_release_binary_sha256": "52a6fd5fd535376031e25593ff248d25993883b5e50c53dfaafb105beffb9bd9",
+  "rust_files_in_src": 67,
+  "source_archive_sha256": "c1aa6cabc78788d60a11b40164f1060179c45e54cf4dbef38129f667658664a0",
+  "source_files_in_original_archive": 80,
+  "test_or_build_performed_on_public_copy": false
+}

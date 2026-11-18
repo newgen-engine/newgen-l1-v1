@@ -1,0 +1,16 @@
+/target/
+/db/
+/snapshots/
+/nodeA/
+/nodeB/
+/nodeC/
+/nodeD/
+/config/
+/logs/
+/evidence_logs/
+/.env
+.env.*
+*.pem
+*.key
+*keystore*.json
+*.passphrase

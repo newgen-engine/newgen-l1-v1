@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-18",
+  "revision": "documentation-closure-1",
+  "previous_public_zip_sha256": "86648b859ae2490b0eccf05e6c22af5e801d2c4b84ea64e0eaae7ad8ca0d53dd",
+  "copyright_holder": "Danilo Bringheli",
+  "source_or_dependency_changes": 0,
+  "historical_summary_json_files_unchanged": 3,
+  "new_compilation_or_blockchain_tests": 0,
+  "changes": [
+    {
+      "path": "DEPENDENCY_REVIEW.json",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "5947cec28b565e8f9c8a2f4ccdfb1969da5a5a355cbf2cb10de0d68f1d1e84cd"
+    },
+    {
+      "path": "DEPENDENCY_REVIEW.md",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "2977ba0d5298bbfa1fc5b588f47141ef3e7c01d377c3302bbc20e557e325ec9c"
+    },
+    {
+      "path": "DEPENDENCY_SECURITY_NOTICES.md",
+      "kind": "updated_documentation",
+      "previous_sha256": "35feb08b2280c2b16102d1d42b7c01cea55b88926dd77230d623c333c7f62093",
+      "sha256": "b51a639df6fa90725e9aeb5f30689df174b537c16d093406c5b28fa609ee9978"
+    },
+    {
+      "path": "README.md",
+      "kind": "updated_documentation",
+      "previous_sha256": "1889cca89e81b529727502af9e7f38a4990473058d5784bd13f803fd8d1bd439",
+      "sha256": "41e1b7aeebddf180d1103a4dae3cbae42176186676d13099ceb0a81d004f62b4"
+    },
+    {
+      "path": "SECURITY.md",
+      "kind": "updated_documentation",
+      "previous_sha256": "8b681c237782576189e7444d9fb667cabd63d14847e85dd02e19f408c47c1e03",
+      "sha256": "8ec6dad68872a4a831643c0105e5a17c9ded8f188fff86782794311fa32f912a"
+    },
+    {
+      "path": "evidence/EVIDENCE_INDEX.json",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "9f32b962c53d63b595050be089417096d074753b0aec9b5b125abd27ab98957c"
+    },
+    {
+      "path": "evidence/EVIDENCE_REPORT.md",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "beb2fb89ab1383b4e80836c2081658a23ba5c4ec476fc656a7081b417217782b"
+    },
+    {
+      "path": "evidence/PUBLICATION_SCOPE.md",
+      "kind": "updated_documentation",
+      "previous_sha256": "a93c4dbfe5ad2c8ce363ee299fce04248a3fbcb66bac8244c1de2870fe50f5a0",
+      "sha256": "1dc9d6ce1d7fce43c5bf99407f311233e7440489a2698ed0d966ebfd7a3fad70"
+    },
+    {
+      "path": "evidence/README.md",
+      "kind": "updated_documentation",
+      "previous_sha256": "75198d7c926e1c2bb6257a42609afef4b068c55478e37281b4dc09af50f2fdcf",
+      "sha256": "2463b6aefc8e70ef241c4cc17931cd99c0d51549f2e92aaefd9557808472cf9a"
+    },
+    {
+      "path": "evidence/captures/20261008/api_capture_utc.txt",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "672b28a4ebddbbad302d9d21afdaa31d57b02150d5ed8ef0b1bb97a3825c7c62"
+    },
+    {
+      "path": "evidence/captures/20261008/binary_reference.json",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "a17298c80dc761b275a4b8d2657ef98f629e184018ec28d6fcaa75af040bbd3b"
+    },
+    {
+      "path": "evidence/captures/20261008/nodeA_status_full.json",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "c9833da52b51bb8392cc13a24925b7bdfb61c41873614b2f0f6660d4614abcbb"
+    },
+    {
+      "path": "evidence/captures/20261008/nodeB_status_full.json",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "0ed2d161199d2cddfdabd803baea5f5e8c545d2be31faa95e61f6861a69ab335"
+    },
+    {
+      "path": "evidence/captures/20261008/nodeC_status_full.json",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "9a6dc86ad22473f1183c9a4860b1a5fbe0b43d2d12754c4434515bac0bc1c172"
+    },
+    {
+      "path": "evidence/captures/20261116/restart_api_field_excerpt.txt",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "ec0af1beb6179762616a3fa2dac36870f185f722ddb4432f9a3166032634bc0d"
+    },
+    {
+      "path": "evidence/captures/20261116/restart_observations.json",
+      "kind": "added_documentation_or_existing_evidence_capture",
+      "sha256": "24b4707c4fd80a94be6ea5e83fcc0cae6eeb90b3d8dcb5f67ef367d0cb2cce47"
+    }
+  ],
+  "scope": "documented V1 source baseline, classified historical evidence and source-based dependency dispositions"
+}

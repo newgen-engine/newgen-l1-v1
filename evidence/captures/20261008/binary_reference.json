@@ -1,0 +1,9 @@
+{
+  "evidence_kind": "selected_metadata_from_original_record",
+  "binary_sha256_reported_in_capture": "693fcb08255e54980031498a600573df199494aef55f5f2f0dd84f9bf62b929a",
+  "source_member": "binary_identity.txt",
+  "source_member_sha256": "6806b077b333722dafaa9e4bd8e5463e134117f2a5f3cd6f240b5f6565034f29",
+  "transformation": "binary digest retained; filesystem path, owner and file metadata omitted",
+  "binary_file_included_or_rehashed": false,
+  "relationship_to_november_source_baseline": "different binary digest; no assertion of a reproducible build or identical source revision"
+}
